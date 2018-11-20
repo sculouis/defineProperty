@@ -1,2 +1,0 @@
-# defineProperty
-Created with CodeSandbox
